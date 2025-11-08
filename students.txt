@@ -1,0 +1,1 @@
+{'name': 'Hasan Fuaad', 'age': '24', 'subjects': ('Python',), 'score': 0}
